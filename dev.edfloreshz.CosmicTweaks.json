@@ -37,7 +37,7 @@
         {
           "type": "git",
           "url": "https://github.com/cosmic-utils/tweaks.git",
-          "commit": "2a896d4ff5334877b6173ce37cf042d505841761"
+          "commit": "cc4af0cc716c4983d8ec11af0581ecd7dfbf6f92"
         },
         "generated-sources.json"
       ]
