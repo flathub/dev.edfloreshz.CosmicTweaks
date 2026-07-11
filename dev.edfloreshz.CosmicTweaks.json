@@ -37,7 +37,7 @@
         {
           "type": "git",
           "url": "https://github.com/cosmic-utils/tweaks.git",
-          "commit": "26b4589a0fd98910cd9a130258c4144946c1e80c"
+          "commit": "ca6ac0b674028b701d4b6b9083a204ca4ee07673"
         },
         "cargo-sources.json"
       ]
