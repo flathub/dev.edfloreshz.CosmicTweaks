@@ -5,7 +5,9 @@
   "base": "com.system76.Cosmic.BaseApp",
   "base-version": "stable",
   "sdk": "org.freedesktop.Sdk",
-  "sdk-extensions": ["org.freedesktop.Sdk.Extension.rust-stable"],
+  "sdk-extensions": [
+    "org.freedesktop.Sdk.Extension.rust-stable"
+  ],
   "command": "cosmic-ext-tweaks",
   "finish-args": [
     "--share=ipc",
@@ -37,7 +39,7 @@
         {
           "type": "git",
           "url": "https://github.com/cosmic-utils/tweaks.git",
-          "commit": "a53b7e5381a9d1705ec4f3b371b60e9e7fb3a8e5"
+          "commit": "567246e01d31dfd5a5677aadbd2ad12b836ce2ce"
         },
         "cargo-sources.json"
       ]
