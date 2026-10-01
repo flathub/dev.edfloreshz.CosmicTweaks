@@ -1,7 +1,7 @@
 {
   "id": "dev.edfloreshz.CosmicTweaks",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "25.08",
+  "runtime-version": "26.08",
   "base": "com.system76.Cosmic.BaseApp",
   "base-version": "stable",
   "sdk": "org.freedesktop.Sdk",
@@ -39,7 +39,7 @@
         {
           "type": "git",
           "url": "https://github.com/cosmic-utils/tweaks.git",
-          "commit": "9974c3429cc17b4972d9c9f5529ef82e7cc0c4db"
+          "commit": "5548414a6dc3753cc54b3939b05f9e5ff35b1e93"
         },
         "cargo-sources.json"
       ]
